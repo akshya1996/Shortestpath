@@ -1,8 +1,8 @@
-                                                                            ASSIGNMENT 1
+
 Name: Akshya Srinivasa Raghavan
-UTA ID: 1001547268
+
 Language: Java
-Section: 5360-001
+
 
 
 Structure of the Code:
